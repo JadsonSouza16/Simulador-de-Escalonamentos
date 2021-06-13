@@ -37,7 +37,6 @@ for(i=0; i<n_process; i++){
         aux[i]= process[i];
         process[i]= process[j];
         process[j] = aux[i];
-
       }
     }
   }
