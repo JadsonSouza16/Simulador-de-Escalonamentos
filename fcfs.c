@@ -76,8 +76,7 @@ float count_TA = 0, count_WT = 0;
         strcpy(process[i].status, "Pronto");
         printf("\nO processo T%d entrou na fila de pronto e aguarda por uma CPU livre\t Status: %s\t\tTempo de execução: %d ms\n", process[i].id, process[i].status, process[i].burst);
         }
-      }
-      
+      }  
     }
          
   instante++;
