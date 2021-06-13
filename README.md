@@ -1,6 +1,6 @@
 # Simulador-de-Escalonamentos
 Integrantes:
-Discentes do curso de Engenharia Mecatrônica da Universidade Federal De Uberlândia
+Discentes do curso de Engenharia Mecatrônica da Universidade Federal De Uberlândia: 
 Jadson Silva Souza - 11721EMT017
 Rafael Marques Borges Pacheco - 11721EMT019
 Vitor Vieira Ferreira - 11721EMT005
