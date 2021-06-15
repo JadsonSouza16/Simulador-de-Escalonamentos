@@ -88,7 +88,7 @@ while(instante < 100){
         retorno += process[i].burst;
       }
       if(lock_1 == 1 && lock_2 == 1){//Condição em que as duas CPUs estão ocupadas
-        if(aux_1 < aux_2){ //Nessa condição é checada qual a CPU estará disponível no menor tempo
+        if(aux_1 > aux_2){ //Nessa condição é checada qual a CPU estará disponível no menor tempo
           menor = aux_2;
         }else{
           menor = aux_1;
